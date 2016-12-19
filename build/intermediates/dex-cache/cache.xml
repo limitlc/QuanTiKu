@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_bd534b2fd5b22e38fb30bd86f4087b58e42961c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_0a7686bc4c2db5d999a93a07372bf097db141fe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_605d3c0b7e9947c72ae01af86128b272f38bae91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c8f1ae18df920cf4dd7961ca633cee7fb1b9274d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e94cabc12255ed142ad9847b23ca401d41169b4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_a4ab207ed5e2f31753fc536d243edf87a86d7dc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_d031f17af288f18c683c436c8f299af04422113e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_28ef3d1a726053c8884af3e3de7f119748942b8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_dd47a10535d0407b3405abc56d2a2f6ce92b2196\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_c3c94941c22aa3226c5b07407934cca266ad3cd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_b012c29bb63995d61a5a2acb3abc2352d896d6d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df2d14dbe61e73f800e78bc6b66b9e4b57b1d389">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2e1afe1b24bc6a3b8045246593da20d48b7dcb37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_1f5d3b59eb8b0dc238da553697541e9f395dad20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8abc5f2aceb9b5e40a72e0f4ac735d5ad5cacc77">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_09a3d7b8e7e1a8297376c081c80c800d11f3c526\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9b8d078d046013f9d31728548c96128bff5b9459\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_04be1bc9ae81f5f9dd93b2c3027f696ad680822e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\lichuang\Desktop\QuanTiKu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_1134b332297f7c5dad55d41bca5a93de83d141d6\classes.dex" />
+    </item>
+
+</items>
